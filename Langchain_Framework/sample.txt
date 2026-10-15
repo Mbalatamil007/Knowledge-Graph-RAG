@@ -1,3 +1,0 @@
-LangChain is a framework for building AI apps.
-It helps connect language models with your own data.
-RAG means Retrieval-Augmented Generation.
