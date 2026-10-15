@@ -1,0 +1,84 @@
+{
+  "relationships": [
+    {
+      "source": "Chennai",
+      "relation": "CITY_IN",
+      "target": "India"
+    },
+    {
+      "source": "New Delhi",
+      "relation": "CITY_IN",
+      "target": "India"
+    },
+    {
+      "source": "Paris",
+      "relation": "CITY_IN",
+      "target": "France"
+    },
+    {
+      "source": "London",
+      "relation": "CITY_IN",
+      "target": "United Kingdom"
+    },
+    {
+      "source": "Chennai International Airport",
+      "relation": "SERVES",
+      "target": "Chennai"
+    },
+    {
+      "source": "Indira Gandhi International Airport",
+      "relation": "SERVES",
+      "target": "New Delhi"
+    },
+    {
+      "source": "Charles de Gaulle Airport",
+      "relation": "SERVES",
+      "target": "Paris"
+    },
+    {
+      "source": "Heathrow Airport",
+      "relation": "SERVES",
+      "target": "London"
+    },
+    {
+      "source": "Marina Beach",
+      "relation": "LOCATED_IN",
+      "target": "Chennai"
+    },
+    {
+      "source": "Fort St. George",
+      "relation": "LOCATED_IN",
+      "target": "Chennai"
+    },
+    {
+      "source": "India Gate",
+      "relation": "LOCATED_IN",
+      "target": "New Delhi"
+    },
+    {
+      "source": "Red Fort",
+      "relation": "LOCATED_IN",
+      "target": "New Delhi"
+    },
+    {
+      "source": "Eiffel Tower",
+      "relation": "LOCATED_IN",
+      "target": "Paris"
+    },
+    {
+      "source": "Louvre Museum",
+      "relation": "LOCATED_IN",
+      "target": "Paris"
+    },
+    {
+      "source": "Tower Bridge",
+      "relation": "LOCATED_IN",
+      "target": "London"
+    },
+    {
+      "source": "British Museum",
+      "relation": "LOCATED_IN",
+      "target": "London"
+    }
+  ]
+}

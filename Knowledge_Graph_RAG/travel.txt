@@ -1,0 +1,18 @@
+Chennai is a city in India.
+New Delhi is a city in India.
+Paris is a city in France.
+London is a city in the United Kingdom.
+
+Chennai International Airport serves Chennai.
+Indira Gandhi International Airport serves New Delhi.
+Charles de Gaulle Airport serves Paris.
+Heathrow Airport serves London.
+
+Marina Beach is located in Chennai.
+Fort St. George is located in Chennai.
+India Gate is located in New Delhi.
+Red Fort is located in New Delhi.
+Eiffel Tower is located in Paris.
+Louvre Museum is located in Paris.
+Tower Bridge is located in London.
+British Museum is located in London.
